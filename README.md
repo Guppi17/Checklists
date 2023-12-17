@@ -1,8 +1,6 @@
 # Checklists
 
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
-</div>
+
 
 ### Guru99 
 - Составить чек-лист на главную страницу [Guru99 Telecom](https://demo.guru99.com/telecom/index.html)
